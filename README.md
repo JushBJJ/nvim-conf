@@ -1,2 +1,2 @@
-this is my nvim config :D
+this is my nvim config
 
